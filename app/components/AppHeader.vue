@@ -13,8 +13,8 @@ const { header } = useAppConfig()
         <UColorModeImage v-bind="{ class: 'h-6 w-auto', ...header?.logo }" />
       </template>
       <template v-else>
-        Nuxt UI Pro <UBadge
-          label="Docs"
+        Trilink Software <UBadge
+          label="Syspro ERP"
           variant="subtle"
           class="mb-0.5"
         />
